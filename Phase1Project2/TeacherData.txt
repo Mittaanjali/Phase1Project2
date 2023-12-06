@@ -1,0 +1,4 @@
+1		Ram		1		A
+1		Sasi		1		A
+2		Ram		2		B
+3		Abhi		3		B
